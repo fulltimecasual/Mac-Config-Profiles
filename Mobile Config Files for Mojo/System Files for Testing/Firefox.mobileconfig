@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DontCheckDefaultBrowser</key>
+			<true/>
+			<key>EnterprisePoliciesEnabled</key>
+			<true/>
+			<key>Homepage</key>
+			<dict>
+				<key>StartPage</key>
+				<string>homepage</string>
+				<key>URL</key>
+				<string>https://www.swinburne.edu.au</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures Firefox settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Firefox</string>
+			<key>PayloadIdentifier</key>
+			<string>com.swinburne.ProfileCreator.BEE3ECEA-39C5-4CB4-BB16-438752A28693.org.mozilla.firefox.4525C8EA-5617-428A-AC1E-6EF3B6CD6AD0</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>org.mozilla.firefox</string>
+			<key>PayloadUUID</key>
+			<string>4525C8EA-5617-428A-AC1E-6EF3B6CD6AD0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets Homepage</string>
+	<key>PayloadDisplayName</key>
+	<string>Firefox</string>
+	<key>PayloadIdentifier</key>
+	<string>com.swinburne.ProfileCreator.BEE3ECEA-39C5-4CB4-BB16-438752A28693</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BEE3ECEA-39C5-4CB4-BB16-438752A28693</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

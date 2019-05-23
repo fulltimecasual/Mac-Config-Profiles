@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>BlockStoragePolicy</key>
+			<integer>2</integer>
+			<key>HomePage</key>
+			<string>https://www.swinburne.edu.au</string>
+			<key>PayloadDisplayName</key>
+			<string>Safari</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.93CDFA93-9BF2-4470-8222-7C5465071AC2.com.apple.Safari.E2DFC70E-884F-458B-97F2-9EC8527C4AA0</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.Safari</string>
+			<key>PayloadUUID</key>
+			<string>E2DFC70E-884F-458B-97F2-9EC8527C4AA0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>TabCreationPolicy</key>
+			<integer>0</integer>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PrivateBrowsingEnabled</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Safari Lab Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.93CDFA93-9BF2-4470-8222-7C5465071AC2</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>93CDFA93-9BF2-4470-8222-7C5465071AC2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

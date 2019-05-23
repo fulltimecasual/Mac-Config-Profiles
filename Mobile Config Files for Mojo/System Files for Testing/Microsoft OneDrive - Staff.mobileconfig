@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FilesOnDemandEnabled</key>
+			<true/>
+			<key>FilesOnDemandPolicy</key>
+			<true/>
+			<key>OpenAtLogin</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Microsoft OneDrive settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft OneDrive</string>
+			<key>PayloadIdentifier</key>
+			<string>com.swinburne.ProfileCreator.1FA5148C-0EBC-4771-BAD2-9FD9C47768B9.com.microsoft.OneDrive.98FBDB76-E546-4D0A-99FD-917453D6C9D5</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.microsoft.OneDrive</string>
+			<key>PayloadUUID</key>
+			<string>98FBDB76-E546-4D0A-99FD-917453D6C9D5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Turns on Files on Demand, sets to autologin</string>
+	<key>PayloadDisplayName</key>
+	<string>Microsoft OneDrive - Staff</string>
+	<key>PayloadIdentifier</key>
+	<string>com.swinburne.ProfileCreator.1FA5148C-0EBC-4771-BAD2-9FD9C47768B9</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1FA5148C-0EBC-4771-BAD2-9FD9C47768B9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

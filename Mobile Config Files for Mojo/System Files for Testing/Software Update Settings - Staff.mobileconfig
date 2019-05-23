@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutomaticCheckEnabled</key>
+			<true/>
+			<key>AutomaticDownload</key>
+			<true/>
+			<key>AutomaticallyInstallMacOSUpdates</key>
+			<true/>
+			<key>CriticalUpdateInstall</key>
+			<true/>
+			<key>ManagedDeferredInstallDelay</key>
+			<integer>7</integer>
+			<key>PayloadDisplayName</key>
+			<string>Software Update</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.DC344A62-F6CA-46C3-A564-C69D7C850E5A.com.apple.SoftwareUpdate.0AA116C7-96A9-451E-9811-50593BDD74B2.CDAD80F7-9060-4536-848B-7E5E9F231D43</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>CDAD80F7-9060-4536-848B-7E5E9F231D43</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>forceDelayedSoftwareUpdates</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Software Update Settings - Staff</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator5B4C1F3F-9606-4432-9411-EBCB53DEFD43</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AA881B2C-758B-4D77-9A60-CF28E36911D0</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures GarageBand  preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>GarageBand</string>
+			<key>PayloadIdentifier</key>
+			<string>com.swinburne.ProfileCreator.9DB599E7-E78D-4ED6-8A08-E34224FCD7D4.com.apple.garageband10.8B3D1423-DE4B-4A80-A547-1D84DC9F169C</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.garageband10</string>
+			<key>PayloadUUID</key>
+			<string>8B3D1423-DE4B-4A80-A547-1D84DC9F169C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ShowMoreDownloadsDialogGB</key>
+			<true/>
+			<key>welcomeScreenShown</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Do not prompt for additional downloads</string>
+	<key>PayloadDisplayName</key>
+	<string>Garageband</string>
+	<key>PayloadIdentifier</key>
+	<string>com.swinburne.ProfileCreator.9DB599E7-E78D-4ED6-8A08-E34224FCD7D4</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9DB599E7-E78D-4ED6-8A08-E34224FCD7D4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

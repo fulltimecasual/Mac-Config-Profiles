@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Time Server settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Time Server</string>
+			<key>PayloadIdentifier</key>
+			<string>com.swinburne.ProfileCreator.DB1BEB33-1F52-43D0-867E-4FDFD7E9F476.com.apple.MCX.337C250D-ABE4-44C9-A245-28948AAC4315</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>337C250D-ABE4-44C9-A245-28948AAC4315</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>timeServer</key>
+			<string>ntp.swin.edu.au</string>
+			<key>timeZone</key>
+			<string>Australia/Melbourne</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets Swinburne NTP</string>
+	<key>PayloadDisplayName</key>
+	<string>Swinburne NTP server</string>
+	<key>PayloadIdentifier</key>
+	<string>com.swinburne.ProfileCreator.DB1BEB33-1F52-43D0-867E-4FDFD7E9F476</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>DB1BEB33-1F52-43D0-867E-4FDFD7E9F476</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

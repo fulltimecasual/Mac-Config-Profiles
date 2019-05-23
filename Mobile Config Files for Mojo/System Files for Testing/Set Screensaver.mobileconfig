@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Screensaver settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Screensaver</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.6F6F6EEF-9D75-476A-8FEC-695E7156BC75.com.apple.screensaver.F0404E56-8797-45C6-A142-952F51B78488</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.screensaver</string>
+			<key>PayloadUUID</key>
+			<string>F0404E56-8797-45C6-A142-952F51B78488</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>idleTime</key>
+			<integer>600</integer>
+			<key>loginWindowIdleTime</key>
+			<integer>600</integer>
+			<key>moduleName</key>
+			<string>FloatingMessage</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>With 10 Minute delay</string>
+	<key>PayloadDisplayName</key>
+	<string>Set Screensaver</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.6F6F6EEF-9D75-476A-8FEC-695E7156BC75</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6F6F6EEF-9D75-476A-8FEC-695E7156BC75</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

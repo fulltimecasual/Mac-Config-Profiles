@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutomaticCheckEnabled</key>
+			<true/>
+			<key>AutomaticDownload</key>
+			<true/>
+			<key>AutomaticallyInstallMacOSUpdates</key>
+			<true/>
+			<key>CatalogURL</key>
+			<string>http://prd-jamf-sus.cc.swin.edu.au/content/catalogs/index_Labs.sucatalog</string>
+			<key>CriticalUpdateInstall</key>
+			<true/>
+			<key>ManagedDeferredInstallDelay</key>
+			<integer>7</integer>
+			<key>PayloadDisplayName</key>
+			<string>Software Update</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.DC344A62-F6CA-46C3-A564-C69D7C850E5A.com.apple.SoftwareUpdate.0AA116C7-96A9-451E-9811-50593BDD74B2</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>0AA116C7-96A9-451E-9811-50593BDD74B2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>forceDelayedSoftwareUpdates</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Software Update Settings - Labs</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.DC344A62-F6CA-46C3-A564-C69D7C850E5A</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>DC344A62-F6CA-46C3-A564-C69D7C850E5A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Energy Saver settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Energy Saver</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.E0591B87-1B15-4E7D-A19F-5FC6F91E7F96.com.apple.MCX.E43A3E08-8A5E-4380-8BD5-FB5EB2FCA223</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>E43A3E08-8A5E-4380-8BD5-FB5EB2FCA223</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>com.apple.EnergySaver.desktop.ACPower</key>
+			<dict>
+				<key>Automatic Restart On Power Loss</key>
+				<integer>1</integer>
+				<key>Disk Sleep Timer-boolean</key>
+				<true/>
+				<key>Display Sleep Timer</key>
+				<integer>30</integer>
+				<key>Sleep On Power Button</key>
+				<integer>1</integer>
+				<key>System Sleep Timer</key>
+				<integer>0</integer>
+				<key>Wake On LAN</key>
+				<integer>1</integer>
+			</dict>
+			<key>com.apple.EnergySaver.desktop.Schedule</key>
+			<dict>
+				<key>RepeatingPowerOff</key>
+				<dict>
+					<key>eventtype</key>
+					<string>sleep</string>
+					<key>time</key>
+					<integer>1380</integer>
+					<key>weekdays</key>
+					<integer>31</integer>
+				</dict>
+				<key>RepeatingPowerOn</key>
+				<dict>
+					<key>eventtype</key>
+					<string>wakepoweron</string>
+					<key>time</key>
+					<integer>360</integer>
+					<key>weekdays</key>
+					<integer>31</integer>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Display Sleep 30mins, and Schedules</string>
+	<key>PayloadDisplayName</key>
+	<string>Lab Energy Saver</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.E0591B87-1B15-4E7D-A19F-5FC6F91E7F96</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E0591B87-1B15-4E7D-A19F-5FC6F91E7F96</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

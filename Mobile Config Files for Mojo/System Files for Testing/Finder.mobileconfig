@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Finder settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Finder</string>
+			<key>PayloadIdentifier</key>
+			<string>com.swinburne.ProfileCreator.5F78A336-267A-42FA-A553-73061B67542D.com.apple.finder.9890A99A-955E-4FFC-AB90-9896F6E10B4D</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.finder</string>
+			<key>PayloadUUID</key>
+			<string>9890A99A-955E-4FFC-AB90-9896F6E10B4D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ShowHardDrivesOnDesktop</key>
+			<true/>
+			<key>ShowMountedServersOnDesktop</key>
+			<true/>
+			<key>WarnOnEmptyTrash</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Shows hard drives and servers, doesnt warn when emptying trash</string>
+	<key>PayloadDisplayName</key>
+	<string>Finder</string>
+	<key>PayloadIdentifier</key>
+	<string>com.swinburne.ProfileCreator.5F78A336-267A-42FA-A553-73061B67542D</string>
+	<key>PayloadOrganization</key>
+	<string>Swinburne</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5F78A336-267A-42FA-A553-73061B67542D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
